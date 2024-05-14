@@ -7,3 +7,6 @@ button.mat-focus-indicator.action-button.mat-raised-button.mat-button-base.mat-p
 .ticket-count-wrapper .status-text, .ticket-count-wrapper.sale-end-in-hours-text{
     border: 1px solid teal !important;
     color: teal !important;}
+
+    .details > .card{
+        visibility: hidden !important;}
