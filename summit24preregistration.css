@@ -7,6 +7,3 @@
     visibility: collapse !important;
 }
 
-form.ng-pristine.ng-invalid.ng-touched {
-    visibility: collapse !important;
-}
