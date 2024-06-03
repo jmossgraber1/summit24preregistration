@@ -6,3 +6,7 @@
 .mat-form-field-flex.ng-tns-c69-32 {
     visibility: collapse !important;
 }
+
+form.ng-pristine.ng-invalid.ng-touched {
+    visibility: collapse !important;
+}
