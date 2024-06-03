@@ -2,3 +2,7 @@
    
     object-fit: scale-down !important;
 }
+
+.mat-form-field-flex.ng-tns-c69-32 {
+    visibility: collapse !important;
+}
