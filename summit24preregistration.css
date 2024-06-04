@@ -7,3 +7,6 @@
     visibility: collapse !important;
 }
 
+.cdk-overlay-container {
+   visibility: collapse !important;
+}
