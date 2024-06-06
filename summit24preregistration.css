@@ -6,3 +6,7 @@
 .mat-form-field-flex.ng-tns-c69-32 {
     visibility: collapse !important;
 }
+
+app-notification.ng-trigger.ng-trigger-enterLeave {
+ display: none !important;
+}
