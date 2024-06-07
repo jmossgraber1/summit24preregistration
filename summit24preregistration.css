@@ -10,9 +10,7 @@
 app-notification.ng-trigger.ng-trigger-enterLeave {
  display: none !important;
 }
-mat-form-field full-width ng-tns-c246-26 ng-tns-c69-33 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-fill mat-form-field-can-float mat-form-field-has-label ng-pristine ng-valid ng-star-inserted ng-touched mat-form-field-hide-placeholder{
-   display: none !important; 
-}
+
 
 instruction ng-star-inserted {
       display: none !important; 
